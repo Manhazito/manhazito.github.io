@@ -5,8 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.manhazito.letzit",
       "sha256_cert_fingerprints": [
-        "PASTE_PLAY_APP_SIGNING_SHA256",
-        "PASTE_UPLOAD_KEY_SHA256"
+        "6A:80:05:69:DA:4E:D1:8D:B9:5A:29:A5:75:66:E1:FA:F9:3D:85:43:26:50:10:60:E4:6A:BB:A1:FD:C2:9E:55"
       ]
     }
   }
