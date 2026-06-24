@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.manhazito.letzit",
       "sha256_cert_fingerprints": [
-        "6A:80:05:69:DA:4E:D1:8D:B9:5A:29:A5:75:66:E1:FA:F9:3D:85:43:26:50:10:60:E4:6A:BB:A1:FD:C2:9E:55"
+        "6A:80:05:69:DA:4E:D1:8D:B9:5A:29:A5:75:66:E1:FA:F9:3D:85:43:26:50:10:60:E4:6A:BB:A1:FD:C2:9E:55",
+        "C4:A7:70:EC:0A:E2:A3:32:A0:3F:DB:C3:76:5C:EF:DF:F2:97:20:73:25:52:F8:57:7F:12:00:83:6C:0F:A8:32"
       ]
     }
   }
